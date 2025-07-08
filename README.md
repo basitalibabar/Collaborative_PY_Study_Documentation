@@ -62,5 +62,5 @@ For future collaborators:
 ## 📬 Contact
 
 For academic collaborations or access discussions:
-- **Muaz Islam Babar** – [Insert professional contact or GitHub profile]
-- **Basit Ali** – [Insert professional contact or GitHub profile]
+- **Muaz Islam Babar** – [muazislambabar@gmail.com]
+- **Basit Ali** – [basitalishauk@gmail.com]
